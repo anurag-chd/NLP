@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<!DOCTYPE sqlMap
+PUBLIC "-//iBATIS.com//DTD SQL Map 2.0//EN"
+"http://www.ibatis.com/dtd/sql-map-2.dtd">
+<sqlMap namespace="Twitter_Id_Rank">
+<select id="getTwitter_Id_Rank" resultClass="Twitter_Id_Rank">
+SELECT
+screen_name as screen_name,
+twitter_rank as twitter_rank,
+FROM dbo.celeb_tweet_name
+WHERE  twitter_rank > 5
+</select>
+</sqlMap>

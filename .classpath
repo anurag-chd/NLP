@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER/org.eclipse.jdt.internal.debug.ui.launcher.StandardVMType/JavaSE-1.7"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/Desktop/NLP/libsvm-3.17/java/libsvm.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/Downloads/twitter4j-3.0.4/lib/twitter4j-async-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/Downloads/twitter4j-3.0.4/lib/twitter4j-core-3.0.4.jar" sourcepath="C:/Users/Anurag/Downloads/twitter4j-3.0.4/twitter4j-core/twitter4j-core-3.0.4-sources.jar">
+		<attributes>
+			<attribute name="javadoc_location" value="jar:file:/C:/Users/Anurag/Downloads/twitter4j-3.0.4/twitter4j-core/twitter4j-core-3.0.4-javadoc.jar!/"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="lib" path="C:/Users/Anurag/Downloads/twitter4j-3.0.4/lib/twitter4j-examples-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/Downloads/twitter4j-3.0.4/lib/twitter4j-media-support-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/Downloads/twitter4j-3.0.4/lib/twitter4j-stream-3.0.4.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/Desktop/NLP/mybatis-3.2.6/mybatis-3.2.6/mybatis-3.2.6.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/Desktop/NLP/mybatis-3.2.6/mybatis-3.2.6/lib/asm-3.3.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/Desktop/NLP/mybatis-3.2.6/mybatis-3.2.6/lib/cglib-2.2.2.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/Desktop/NLP/mybatis-3.2.6/mybatis-3.2.6/lib/commons-logging-1.1.1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/Desktop/NLP/mybatis-3.2.6/mybatis-3.2.6/lib/javassist-3.17.1-GA.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/Desktop/NLP/mybatis-3.2.6/mybatis-3.2.6/lib/log4j-1.2.17.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/Desktop/NLP/mybatis-3.2.6/mybatis-3.2.6/lib/log4j-api-2.0-rc1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/Desktop/NLP/mybatis-3.2.6/mybatis-3.2.6/lib/log4j-core-2.0-rc1.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/Desktop/NLP/mybatis-3.2.6/mybatis-3.2.6/lib/slf4j-api-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/Desktop/NLP/mybatis-3.2.6/mybatis-3.2.6/lib/slf4j-log4j12-1.7.5.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/Desktop/NLP/mybatis-3.2.6/mybatis-3.2.6/mybatis-3.0.1-sources.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/Desktop/NLP/ibatis-2.3.4.726/lib/ibatis-2.3.4.726.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/Downloads/Java Libraries/liblinear-1.94.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/workspace/sbnlp/StanfordCONLP/lib/ejml-0.23.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/workspace/sbnlp/StanfordCONLP/lib/joda-time.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/workspace/sbnlp/StanfordCONLP/lib/jollyday.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/workspace/sbnlp/StanfordCONLP/lib/stanford-corenlp-3.3.0.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/workspace/sbnlp/StanfordCONLP/lib/stanford-corenlp-3.3.0-javadoc.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/workspace/sbnlp/StanfordCONLP/lib/stanford-corenlp-3.3.0-models.jar"/>
+	<classpathentry kind="lib" path="C:/Users/Anurag/workspace/sbnlp/StanfordCONLP/lib/xom.jar"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

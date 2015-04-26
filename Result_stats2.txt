@@ -1,0 +1,10 @@
+Bigram Classifier
+{POSITIVE TRAINING SET} Training Set: 1 Test Set: 4 Total results : 200 Correct_Results : 171 Precision: 85.5
+{POSITIVE TRAINING SET} Training Set: 2 Test Set: 4 Total results : 200 Correct_Results : 167 Precision: 83.5
+{POSITIVE TRAINING SET} Training Set: 3 Test Set: 4 Total results : 200 Correct_Results : 188 Precision: 94.0
+
+{NEGATIVE TRAINING SET} Training Set: 0 Test Set: 4 Total results : 200 Correct_Results : 190 Precision: 95.0
+{NEGATIVE TRAINING SET} Training Set: 1 Test Set: 4 Total results : 200 Correct_Results : 199 Precision: 99.5
+{NEGATIVE TRAINING SET} Training Set: 2 Test Set: 4 Total results : 200 Correct_Results : 200 Precision: 100.0
+{NEGATIVE TRAINING SET} Training Set: 3 Test Set: 4 Total results : 200 Correct_Results : 200 Precision: 100.0
+

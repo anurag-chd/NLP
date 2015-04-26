@@ -1,0 +1,84 @@
+Language model
+Unigram Classifier
+[With Stop Words]
+{POSITIVE TRAINING SET} Training Set: 0 Test Set: 4 Total results : 200 Correct_Results : 141 Precision: 70.5
+{POSITIVE TRAINING SET} Training Set: 1 Test Set: 4 Total results : 200 Correct_Results : 127 Precision: 63.5
+{POSITIVE TRAINING SET} Training Set: 2 Test Set: 4 Total results : 200 Correct_Results : 127 Precision: 63.5
+{POSITIVE TRAINING SET} Training Set: 3 Test Set: 4 Total results : 200 Correct_Results : 126 Precision: 63.0
+
+{NEGATIVE TRAINING SET} Training Set: 0 Test Set: 4 Total results : 200 Correct_Results : 175 Precision: 87.5
+{NEGATIVE TRAINING SET} Training Set: 1 Test Set: 4 Total results : 200 Correct_Results : 180 Precision: 90.0
+{NEGATIVE TRAINING SET} Training Set: 2 Test Set: 4 Total results : 200 Correct_Results : 172 Precision: 86.0
+{NEGATIVE TRAINING SET} Training Set: 3 Test Set: 4 Total results : 200 Correct_Results : 177 Precision: 88.5
+
+{POSITIVE TRAINING SET} Training Set: {0,} Test Set: 4 Total results : 200 Correct_Results : 141 Precision: 70.5
+{POSITIVE TRAINING SET} Training Set: {0,1,} Test Set: 4 Total results : 200 Correct_Results : 143 Precision: 71.5
+{POSITIVE TRAINING SET} Training Set: {0,1,2,} Test Set: 4 Total results : 200 Correct_Results : 142 Precision: 71.0
+{POSITIVE TRAINING SET} Training Set: {0,1,2,3,} Test Set: 4 Total results : 200 Correct_Results : 141 Precision: 70.5
+
+{NEGATIVE TRAINING SET} Training Set: {0,} Test Set: 4 Total results : 200 Correct_Results : 175 Precision: 87.5
+{NEGATIVE TRAINING SET} Training Set: {0,1,} Test Set: 4 Total results : 200 Correct_Results : 177 Precision: 88.5
+{NEGATIVE TRAINING SET} Training Set: {0,1,2,} Test Set: 4 Total results : 200 Correct_Results : 176 Precision: 88.0
+{NEGATIVE TRAINING SET} Training Set: {0,1,2,3,} Test Set: 4 Total results : 200 Correct_Results : 168 Precision: 84.0
+
+[WithOut Stop Words]
+{POSITIVE TRAINING SET} Training Set: 0 Test Set: 4 Total results : 200 Correct_Results : 144 Precision: 72.0
+{POSITIVE TRAINING SET} Training Set: 1 Test Set: 4 Total results : 200 Correct_Results : 131 Precision: 65.5
+{POSITIVE TRAINING SET} Training Set: 2 Test Set: 4 Total results : 200 Correct_Results : 140 Precision: 70.0
+{POSITIVE TRAINING SET} Training Set: 3 Test Set: 4 Total results : 200 Correct_Results : 135 Precision: 67.5
+
+{NEGATIVE TRAINING SET} Training Set: 0 Test Set: 4 Total results : 200 Correct_Results : 174 Precision: 87.0
+{NEGATIVE TRAINING SET} Training Set: 1 Test Set: 4 Total results : 200 Correct_Results : 181 Precision: 90.5
+{NEGATIVE TRAINING SET} Training Set: 2 Test Set: 4 Total results : 200 Correct_Results : 174 Precision: 87.0
+{NEGATIVE TRAINING SET} Training Set: 3 Test Set: 4 Total results : 200 Correct_Results : 175 Precision: 87.5
+
+{POSITIVE TRAINING SET} Training Set: {0,} Test Set: 4 Total results : 200 Correct_Results : 144 Precision: 72.0
+{POSITIVE TRAINING SET} Training Set: {0,1,} Test Set: 4 Total results : 200 Correct_Results : 152 Precision: 76.0
+{POSITIVE TRAINING SET} Training Set: {0,1,2,} Test Set: 4 Total results : 200 Correct_Results : 146 Precision: 73.0
+{POSITIVE TRAINING SET} Training Set: {0,1,2,3,} Test Set: 4 Total results : 200 Correct_Results : 147 Precision: 73.5
+
+{NEGATIVE TRAINING SET} Training Set: {0,} Test Set: 4 Total results : 200 Correct_Results : 174 Precision: 87.0
+{NEGATIVE TRAINING SET} Training Set: {0,1,} Test Set: 4 Total results : 200 Correct_Results : 178 Precision: 89.0
+{NEGATIVE TRAINING SET} Training Set: {0,1,2,} Test Set: 4 Total results : 200 Correct_Results : 176 Precision: 88.0
+{NEGATIVE TRAINING SET} Training Set: {0,1,2,3,} Test Set: 4 Total results : 200 Correct_Results : 170 Precision: 85.0
+
+Bigram Classifier
+{POSITIVE TRAINING SET} Training Set: 1 Test Set: 4 Total results : 200 Correct_Results : 171 Precision: 85.5
+{POSITIVE TRAINING SET} Training Set: 2 Test Set: 4 Total results : 200 Correct_Results : 167 Precision: 83.5
+{POSITIVE TRAINING SET} Training Set: 3 Test Set: 4 Total results : 200 Correct_Results : 188 Precision: 94.0
+
+{NEGATIVE TRAINING SET} Training Set: 0 Test Set: 4 Total results : 200 Correct_Results : 190 Precision: 95.0
+{NEGATIVE TRAINING SET} Training Set: 1 Test Set: 4 Total results : 200 Correct_Results : 199 Precision: 99.5
+{NEGATIVE TRAINING SET} Training Set: 2 Test Set: 4 Total results : 200 Correct_Results : 200 Precision: 100.0
+{NEGATIVE TRAINING SET} Training Set: 3 Test Set: 4 Total results : 200 Correct_Results : 200 Precision: 100.0
+
+{POSITIVE TRAINING SET} Training Set: {0,} Test Set: 4 Total results : 200 Correct_Results : 69 Precision: 34.5
+{POSITIVE TRAINING SET} Training Set: {0,1,} Test Set: 4 Total results : 200 Correct_Results : 85 Precision: 42.5
+{POSITIVE TRAINING SET} Training Set: {0,1,2,} Test Set: 4 Total results : 200 Correct_Results : 89 Precision: 44.5
+{POSITIVE TRAINING SET} Training Set: {0,1,2,3,} Test Set: 4 Total results : 200 Correct_Results : 95 Precision: 47.5
+
+{NEGATIVE TRAINING SET} Training Set: {0,} Test Set: 4 Total results : 200 Correct_Results : 190 Precision: 95.0
+{NEGATIVE TRAINING SET} Training Set: {0,1,} Test Set: 4 Total results : 200 Correct_Results : 197 Precision: 98.5
+{NEGATIVE TRAINING SET} Training Set: {0,1,2,} Test Set: 4 Total results : 200 Correct_Results : 199 Precision: 99.5
+{NEGATIVE TRAINING SET} Training Set: {0,1,2,3,} Test Set: 4 Total results : 200 Correct_Results : 198 Precision: 99.0
+
+PerceptronClassifier
+{POSITIVE TRAINING SET} Training Set: 0 Test Set: 4 Total results : 200 Correct_Results : 157 Precision: 78.5
+{POSITIVE TRAINING SET} Training Set: 1 Test Set: 4 Total results : 200 Correct_Results : 152 Precision: 76.0
+{POSITIVE TRAINING SET} Training Set: 2 Test Set: 4 Total results : 200 Correct_Results : 150 Precision: 75.0
+{POSITIVE TRAINING SET} Training Set: 3 Test Set: 4 Total results : 200 Correct_Results : 158 Precision: 79.0
+
+{NEGATIVE TRAINING SET} Training Set: 0 Test Set: 4 Total results : 200 Correct_Results : 153 Precision: 76.5
+{NEGATIVE TRAINING SET} Training Set: 1 Test Set: 4 Total results : 200 Correct_Results : 157 Precision: 78.5
+{NEGATIVE TRAINING SET} Training Set: 2 Test Set: 4 Total results : 200 Correct_Results : 160 Precision: 80.0
+{NEGATIVE TRAINING SET} Training Set: 3 Test Set: 4 Total results : 200 Correct_Results : 140 Precision: 70.0
+
+{POSITIVE TRAINING SET} Training Set: {0,} Test Set: 4 Total results : 200 Correct_Results : 150 Precision: 75.0
+{POSITIVE TRAINING SET} Training Set: {0,1,} Test Set: 4 Total results : 200 Correct_Results : 137 Precision: 68.5
+{POSITIVE TRAINING SET} Training Set: {0,1,2,} Test Set: 4 Total results : 200 Correct_Results : 160 Precision: 80.0
+{POSITIVE TRAINING SET} Training Set: {0,1,2,3,} Test Set: 4 Total results : 200 Correct_Results : 151 Precision: 75.5
+
+{NEGATIVE TRAINING SET} Training Set: {0,} Test Set: 4 Total results : 200 Correct_Results : 158 Precision: 79.0
+{NEGATIVE TRAINING SET} Training Set: {0,1,} Test Set: 4 Total results : 200 Correct_Results : 170 Precision: 85.0
+{NEGATIVE TRAINING SET} Training Set: {0,1,2,} Test Set: 4 Total results : 200 Correct_Results : 161 Precision: 80.5
+{NEGATIVE TRAINING SET} Training Set: {0,1,2,3,} Test Set: 4 Total results : 200 Correct_Results : 161 Precision: 80.5
